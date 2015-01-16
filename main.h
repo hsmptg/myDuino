@@ -26,7 +26,7 @@ void setup();
 #endif
 
 //add your function definitions for the project here
-#define VERSION_STR "v1.0 Duino"
+#define VERSION_STR "v1.0 myDuino"
 
 //Do not add code below this line
 
