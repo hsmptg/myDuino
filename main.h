@@ -11,6 +11,7 @@
 
 //add your includes for the project here
 #include "serialServer.h"
+#include "tick.h"
 
 //end of add your includes here
 
@@ -26,7 +27,7 @@ void setup();
 #endif
 
 //add your function definitions for the project here
-#define VERSION_STR "v1.0 myDuino"
+#define VERSION_STR "v1.0 myDuino w/ tick"
 
 //Do not add code below this line
 
